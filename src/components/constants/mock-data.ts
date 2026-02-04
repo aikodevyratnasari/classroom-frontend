@@ -1,4 +1,5 @@
-// src/mocks/mock-subjects.ts
+// src/components/constants/mock-data.ts
+
 import { Subject } from "@/types";
 
 export const MOCK_SUBJECTS: Subject[] = [
